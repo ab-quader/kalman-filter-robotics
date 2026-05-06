@@ -14,8 +14,7 @@ Leibniz University Hannover (LUH).
 - Quantifies the improvement in tracking accuracy
 
 ## Results
-![Tracking Results](Image/tracking_results.png
-)
+![Tracking Results](Image/tracking_results.png)
 
 ## Installation
 ```bash
@@ -46,4 +45,4 @@ python demo.py
 - [ ] Apply to ROS 2 robot simulation
 
 ## Author
-A. Quader — M.Sc. AI-driven Mechatronics & Robotics, LUH Hannover
+AB Quader — M.Sc. AI-driven Mechatronics & Robotics, LUH Hannover
