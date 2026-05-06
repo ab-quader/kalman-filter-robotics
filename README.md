@@ -1,7 +1,7 @@
 # Kalman Filter for 2D Robotics Tracking
 
 Implementation of a **Linear Kalman Filter** and **Extended Kalman Filter** 
-for 2D object tracking — built from scratch in Python.
+for 2D object tracking, built from scratch in Python.
 
 This project is part of my learning journey in the 
 *Recursive State Estimation for Dynamic Systems* course at 
@@ -45,4 +45,4 @@ python demo.py
 - [ ] Apply to ROS 2 robot simulation
 
 ## Author
-AB Quader — M.Sc. AI-driven Mechatronics & Robotics, LUH Hannover
+AB Quader | M.Sc. AI-driven Mechatronics & Robotics, LUH Hannover
