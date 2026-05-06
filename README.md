@@ -14,7 +14,8 @@ Leibniz University Hannover (LUH).
 - Quantifies the improvement in tracking accuracy
 
 ## Results
-![Tracking Results](tracking_results.png)
+![Tracking Results](<img width="2540" height="1390" alt="image" src="https://github.com/user-attachments/assets/52bd083a-6499-4e9f-9c2f-62d16c98809f" />
+)
 
 ## Installation
 ```bash
